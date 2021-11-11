@@ -1,5 +1,7 @@
 # ESP32-Internet-of-Things-SoM
 
+![alt text](https://github.com/MateoSegura/ESP32-Internet-of-Things-SoM/blob/main/images/som_front.jpeg)
+
 A versatile IoT development platform, designed to help you accelerate development time, and create performant microcontroller embedded applications.
 
 This board combines hardware & sensors that are widely used in industrial, and internet of things applications, where a right balance of power & performance are required.
