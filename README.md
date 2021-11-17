@@ -34,7 +34,13 @@ The ESP32 Utilities Libraries were created to abstract & ease a lot of the over 
 - Hardware Initialization
 - Error handling
 
-These libraries also include drivers for all the hardware in the SoM, which offers pre-written functions to utilize any of the systems on the module.This can help shorten development time, and the developer can dedicate more time to the specific application logic.
+They also include drivers for all the hardware in the SoM, which is mostly based on open source code from companies like Sparkfun. 
+
+These libraries implement useful methods that involve any of the systems on the module, such as writting/reading files, bluetooth communication, usb serial communication & file download, high-data rate analog sampling, amongst other things.
+
+This can help shorten development time for IoT applications, and the developer can dedicate more time to the specific application logic.
+
+[ESP32 Utilities Libraries](https://github.com/MateoSegura/ESP32-Utilities)
 
 ## Hardware support
 
