@@ -11,7 +11,7 @@ Some of the feature of the SoM are:
 - Dual core MCU ESP32
 - MCP2518FD CAN 2.0B/FD Controller
     - Up to 5Mb/s
-    - Software enabled 120 Ohms termination
+    - Software selectable 120 Ohms termination
 - AD7689 16-bit ASR Analog to Digital (ADC) converter
     - 8-Inputs
     - Up to 150K samples/second
@@ -20,10 +20,11 @@ Some of the feature of the SoM are:
 - BME688 Environmental sensor
     - Temperature, Humidity & Barometric Pressure
 - RV-3028 Real Time Clock (RTC)
-    - 9 nA current consumption
 - Up to 128Gb eMMC memory
 
 This hardware is combined in a System on Module (SoM) with a small footprint, in a 4-layer board, and all signals are routed out through high density connectors.
+
+
 
 The reason for this board was to create the bases of a eco-system on electronic control units for a variety of products in the automotive/industrial sector. This allows me to re-use a big percentage of the software across all of these projects.
 
