@@ -1,6 +1,6 @@
 # ESP32-Internet-of-Things-SoM
 
-![alt text](https://github.com/MateoSegura/ESP32-Internet-of-Things-SoM/blob/main/images/65820403583__40BDBBA1-D261-430F-ABA7-4362D48FF893.jpg)
+![alt text](https://github.com/MateoSegura/ESP32-Internet-of-Things-SoM/blob/main/images/som_w_carrier_board.jpg)
 
 A versatile IoT development platform, designed to accelerate development time, and create performant microcontroller embedded applications.
 
@@ -24,7 +24,7 @@ Some of the feature of the SoM are:
 
 This hardware is combined in a System on Module (SoM) with a small footprint, in a 4-layer board, and all signals are routed out through high density connectors.
 
-
+![alt text](https://github.com/MateoSegura/ESP32-Internet-of-Things-SoM/blob/main/images/som_pcb_top.jpg)
 
 The reason for this board was to create the bases of a eco-system on electronic control units for a variety of products in the automotive/industrial sector. This allows me to re-use a big percentage of the software across all of these projects.
 
