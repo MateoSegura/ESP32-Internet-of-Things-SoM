@@ -6,7 +6,7 @@ A versatile IoT development platform, designed to accelerate development time, a
 
 This board combines hardware & sensors that are widely used in industrial, and internet of things applications, where a right balance of power, performance & connectivity are required.
 
-![alt text](https://github.com/MateoSegura/ESP32-Internet-of-Things-SoM/blob/main/images/system_overview.jpg)
+![alt text](https://github.com/MateoSegura/ESP32-Internet-of-Things-SoM/blob/main/images/new_system_overview.jpg)
 
 Hardware used:
 
