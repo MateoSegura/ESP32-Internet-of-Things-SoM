@@ -2,9 +2,9 @@
 
 ![alt text](https://github.com/MateoSegura/ESP32-Internet-of-Things-SoM/blob/main/images/som_w_carrier_board.jpg)
 
-A versatile IoT development platform, designed to accelerate development time, and create performant microcontroller embedded applications.
+IoT development platform, designed to accelerate development time, and create performant microcontroller embedded applications.
 
-This board combines hardware & sensors that are widely used in industrial, and internet of things applications, where a right balance of power, performance & connectivity are required.
+This board combines hardware & sensors that are widely used in industrial,control , and internet of things applications, where a right balance of power, performance & connectivity are required.
 
 ![alt text](https://github.com/MateoSegura/ESP32-Internet-of-Things-SoM/blob/main/images/new_system_overview.jpg)
 
