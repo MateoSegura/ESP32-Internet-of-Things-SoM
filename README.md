@@ -46,7 +46,7 @@ These libraries implement useful methods that involve any of the systems on the 
 
 The schematics for the module itself are not given. However, the documentation below has diagrams & connections for each system, along with explanations, examples & notes to help you integrate any of these system in your own design.
 
-[ESP32 SoM Hardware Documentation](https://www.notion.so/ESP32-SoM-Hardware-Documentation-87b4bec93dd54ebaa275c7d341c4cf4d)
+[ESP32 SoM Hardware Documentation](https://docs.google.com/document/d/1cvqt_nmYXVyZALtU27ad5ajB4PCNqFzc/edit?usp=sharing&ouid=105697088266419729293&rtpof=true&sd=true)
 
 
 If you're interested in buying one, send me an email: mateo.segura413@gmail.com
