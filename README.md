@@ -8,7 +8,7 @@ This board combines hardware & sensors that are widely used in industrial,contro
 
 ![alt text](https://github.com/MateoSegura/ESP32-Internet-of-Things-SoM/blob/main/images/new_system_overview.jpg)
 
-Hardware used:
+Hardware used hello:
 
 - Dual core MCU ESP32
 - MCP2518FD CAN 2.0B/FD Controller
